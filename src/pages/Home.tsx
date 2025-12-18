@@ -61,10 +61,10 @@ export default function Home() {
           className="absolute inset-0 bg-cover bg-center"
           style={{
             backgroundImage:
-              'url(https://cdn.poehali.dev/projects/429afa72-3e9a-4040-a6da-076c62cd8227/files/198391a6-9a06-4a31-869f-12cef75826c8.jpg)',
+              'url(https://cdn.poehali.dev/files/m-group-121.jpg)',
           }}
         >
-          <div className="absolute inset-0 bg-black/40" />
+          <div className="absolute inset-0 bg-black/30" />
         </div>
         <div className="relative z-10 text-center text-white px-4 animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">Комфорт Дома</h1>
